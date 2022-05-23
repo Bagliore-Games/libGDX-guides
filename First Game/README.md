@@ -1,10 +1,10 @@
 # First Game in libGDC
 
-## DesktopLauncher
+## DesktopLauncher.java
 - We set the title of our game
 - We set the starting size of the screen
 
-## MyGame
+## MyGame.java
 - We create the abstraction of a playable character
 ````java
 // player
